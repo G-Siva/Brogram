@@ -83,8 +83,6 @@ Contributions are what make the open-source community an amazing place to learn,
 
 Distributed under the **MIT License**. See `LICENSE.md` for more information.
 
-## 🔗 Contact & Deployment
+## 🔗 Deployment
 
   * **Live Demo:** [https://brogram-amber.vercel.app/](https://brogram-amber.vercel.app/)
-  * **Project Link (GitHub):** [YOUR\_REPO\_URL\_HERE]
-  * **Email:** [YOUR\_EMAIL\_HERE]
